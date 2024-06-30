@@ -995,7 +995,7 @@ const PrivacyPolicy: NextPage = () => {
   return (
     <>
       <Head>
-        <title>{'Safe{Wallet} – Privacy policy'}</title>
+        <title>S4S – Privacy policy</title>
       </Head>
 
       <main>{IS_OFFICIAL_HOST && <SafePrivacyPolicy />}</main>
